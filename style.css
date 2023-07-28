@@ -56,6 +56,18 @@ ul {
 
 a {
     text-decoration: none;
+    color: #474747;
+    transition: color 0.2s ease-in-out;
+
+}
+
+a:visited {
+    color: #474747;
+
+}
+
+a:hover {
+    color: #bdbdbd;
 }
 
 footer {
