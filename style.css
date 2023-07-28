@@ -8,11 +8,14 @@ body {
 }
 
 .main-title {
-    padding: 24px;
     text-align: center;
     font-size: 65px;
     font-weight: 500;
     color: #474747;
+}
+
+.subtitle {
+    margin-bottom: 25px;
 }
 
 h2 {
@@ -21,7 +24,7 @@ h2 {
     width: fit-content;
     text-align: center;
     font-size: 25px;
-    color: #747474;
+    color: #474747;
     font-style: italic;
 
 }
@@ -29,4 +32,10 @@ h2 {
 img {
     width: 100%;
     height: auto;
+}
+
+.recipes-container {
+    margin: auto;
+    width: fit-content;
+    padding: 25px;
 }
