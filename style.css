@@ -76,6 +76,20 @@ footer {
     margin-left: auto;
     padding: 25px;
     font-size: 15px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Mallanna", sans-serif;
     color: #bdbdbd;
+}
+
+.link-footer {
+    color: #bdbdbd;
+    display: inline-block;
+    padding: 3px;
+    transition: color 0.2s ease-out;
+}
+.link-footer:visited {
+    color: #bdbdbd;
+}
+
+.link-footer:hover {
+    color: #474747;
 }
