@@ -158,6 +158,14 @@ footer {
     margin: auto;
 }
 
+.ingredients-list h3 {
+    font-family: "Mallanna", sans-serif;
+    color: #474747;
+    font-weight: 100;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
 .ingredients-container li,.instructions-container li  {
     font-family: "Mallanna", sans-serif;
     color: #474747;
