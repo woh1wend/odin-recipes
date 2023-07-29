@@ -16,6 +16,18 @@ body {
     color: #474747;
 }
 
+header {
+    width: fit-content;
+    margin: auto;
+    padding: 25px;
+    border: 20px;
+}
+
+.menu-header li {
+    display: inline;
+    padding: 25px;
+}
+
 
 img {
     width: 100%;
