@@ -7,6 +7,7 @@ body {
     background-color: #f7f7f7;
 }
 
+
 .main-title {
     padding: 20px;
     text-align: center;
@@ -15,20 +16,6 @@ body {
     color: #474747;
 }
 
-.subtitle {
-    margin-bottom: 25px;
-}
-
-h2 {
-    padding: 15px;
-    margin: auto;
-    width: fit-content;
-    text-align: center;
-    font-size: 25px;
-    color: #474747;
-    font-style: italic;
-
-}
 
 img {
     width: 100%;
