@@ -116,3 +116,72 @@ footer {
     color: #474747;
 }
 
+
+
+/* RECIPES PAGES*/
+
+.contains-all {
+    margin: 25px;
+    padding: 10px;
+}
+
+.container {
+    width: fit-content;
+    height: auto;
+    margin: auto;
+    
+}
+
+.ingredients-container, .recipe-image{
+    display: inline-block;
+    width: fit-content;
+    padding: 25px;
+    margin: 10px auto;
+    vertical-align: middle;
+}
+
+.recipe-image {
+    width: 350px;
+    height: auto;
+    
+}
+
+.ingredients-container h2{
+    font-family: "Mallanna", sans-serif;
+    color: #474747;
+    font-weight: 100;
+    text-align: center;
+}
+
+.ingredients-container ul {
+    margin: auto;
+}
+
+.ingredients-container li,.instructions-container li  {
+    font-family: "Mallanna", sans-serif;
+    color: #474747;
+    line-height: 1.5;
+    
+}
+
+.instructions-container {
+    width: 750px;
+    height: auto;
+    margin: auto;
+    padding: 15px;
+}
+
+.instructions-container h2{
+    font-family: "Mallanna", sans-serif;
+    color: #474747;
+    font-weight: 100;
+    text-align: left;
+}
+
+.instructions-list li {
+    padding: 10px;
+
+}
+
+
+
