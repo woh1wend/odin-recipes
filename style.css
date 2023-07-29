@@ -23,11 +23,34 @@ header {
     border: 20px;
 }
 
+.header-title {
+    width: fit-content;
+    margin: auto;
+    padding: 15px;
+    color: #474747;
+
+}   
+
+
+
 .menu-header li {
     display: inline;
     padding: 25px;
+    font-size: 20px;
 }
 
+.recipe-title h1 {
+    font-family: "Mallanna", sans-serif;
+    font-size: 30px;
+    color: #474747;
+    font-weight: 100;
+}
+
+.recipe-title {
+    width: fit-content;
+    margin: auto;
+    padding: 15px;
+}
 
 img {
     width: 100%;
@@ -43,6 +66,8 @@ img {
 
 ul {
     list-style: none;
+    margin: auto;
+    padding: 0;
 }
 
 .main-recipe {
@@ -92,3 +117,4 @@ footer {
 .link-footer:hover {
     color: #474747;
 }
+
