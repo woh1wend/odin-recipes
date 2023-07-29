@@ -196,5 +196,44 @@ footer {
     margin: auto;
 }
 
+/* ABOUT PAGE */
+
+.about-container {
+    margin: auto;
+    padding: 50px 10px;
+    width: fit-content;
+}
+
+.about,.about-text {
+    display: inline-block;
+    width: fit-content;
+    margin: auto;
+    padding: 15px;
+}
+.about h1 {
+    font-family: "Mallanna", sans-serif;
+    font-size: 30px;
+    color: #474747;
+    font-weight:100;
+}
+
+.about-text p {
+    font-family: "Mallanna", sans-serif;
+    color: #474747;
+    font-weight:100;
+}
+
+.about {
+    vertical-align: top;
+    padding: 0px 25px;
+}
+
+.about-footer {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+
 
 
